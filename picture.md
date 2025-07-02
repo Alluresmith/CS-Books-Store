@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     %% ---------- 输入 ----------
     subgraph DATA["✦ 数据管道"]
